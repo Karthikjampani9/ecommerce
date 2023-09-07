@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.bdd596f1.css",
+    "main.js": "/ecommerce/static/js/main.41e5ef3b.js",
+    "static/media/vgbg.png": "/ecommerce/static/media/vgbg.4a4bb388f9ee8a2ebc42.png",
+    "static/media/kk.png": "/ecommerce/static/media/kk.ebf0407632643063ce4f.png",
+    "static/media/p2.png": "/ecommerce/static/media/p2.3b923917edbff8900c73.png",
+    "static/media/pcart1.png": "/ecommerce/static/media/pcart1.2c11f8d96b99218f8bd3.png",
+    "static/media/react.jpeg": "/ecommerce/static/media/react.c27584943ce51591bf67.jpeg",
+    "static/media/todoList-2.png": "/ecommerce/static/media/todoList-2.27188616f6399ecc5578.png",
+    "static/media/redux.jpeg": "/ecommerce/static/media/redux.0b70b2f2d8d9c1c5d1cd.jpeg",
+    "static/media/css.jpeg": "/ecommerce/static/media/css.2e823cd5125f38b4e6f4.jpeg",
+    "static/media/html.jpeg": "/ecommerce/static/media/html.9de81ee7ddeeced1265a.jpeg",
+    "static/media/materialUI.jpeg": "/ecommerce/static/media/materialUI.d4d740cc0f1b5b5bbb9f.jpeg",
+    "static/media/javascript.jpeg": "/ecommerce/static/media/javascript.53f2b641e46ca3137242.jpeg",
+    "static/media/github.jpeg": "/ecommerce/static/media/github.23c46e1b779e2924bf50.jpeg",
+    "static/media/npm.jpeg": "/ecommerce/static/media/npm.c8b12e60a5953ab806ad.jpeg",
+    "index.html": "/ecommerce/index.html",
+    "main.bdd596f1.css.map": "/ecommerce/static/css/main.bdd596f1.css.map",
+    "main.41e5ef3b.js.map": "/ecommerce/static/js/main.41e5ef3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd596f1.css",
+    "static/js/main.41e5ef3b.js"
+  ]
+}
