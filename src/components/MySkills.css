@@ -1,0 +1,20 @@
+/* MySkills.css */
+
+.mskill {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .skillsItem {
+    text-align: center;
+    width: calc(33.33% - 10px);
+    margin-bottom: 30px;
+    box-sizing: border-box;
+  }
+  
+  .skillsLogo {
+    max-width: 100%;
+    height: 150px;
+  }
+  

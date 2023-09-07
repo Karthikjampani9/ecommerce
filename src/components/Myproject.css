@@ -1,0 +1,22 @@
+.myp{
+    background-color: rgb(108, 109, 109);
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.butns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+    height: auto; /* Maintain the image's aspect ratio */
+}
