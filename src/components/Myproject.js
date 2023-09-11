@@ -20,14 +20,13 @@ function Myproject() {
         </div>
         <br></br>
         <br></br>
-        
         <div className='container'>
         <img src={P2}></img>
         </div>
         <br></br>
         <div className='butns'>
         <button>Deploy</button>
-        <button>GitHub</button>
+        <button><a href='https://github.com/karthikjampani/website-using-react-app'>GitHub</a></button>
         </div>
         <br></br>
         <br></br>
@@ -43,7 +42,7 @@ function Myproject() {
         <br></br>
         <br></br>
         <div className='butns'>
-        <button>GitHub</button>
+        <button><a href='https://github.com/karthikjampani/ToDoList-Reacjs'>GitHub</a></button>
         </div>
     </div>
   )
