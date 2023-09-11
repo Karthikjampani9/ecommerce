@@ -15,8 +15,8 @@ function Myproject() {
         
         <div className='butns'>
 
-        <button><a href='https://www.amazon.in'>Deploy</a></button>
-        <button>GitHub</button>
+        <button><a href='https://karthikjampani9.github.io/shpooingWebsite/'>Deploy</a></button>
+        <button><a href='https://github.com/Karthikjampani9/shpooingWebsite'>GitHub</a></button>
         </div>
         <br></br>
         <br></br>
