@@ -11,7 +11,7 @@ function Aboutm() {
             <img src={Kk}></img>
           </div>
           <div className='resume-button'>
-            <button >My resume</button>
+            <button ><a href='https://drive.google.com/file/d/1LtFk86wPoJFtBak_J0ICD_hQ1IDgHMTz/view?usp=sharing'>My resume</a></button>
             </div>
             
            <p className='p1'>Jampani Karthik</p>
